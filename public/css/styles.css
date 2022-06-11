@@ -28,8 +28,12 @@ h1 {
   text-align: center;
 }
 
-main p:nth-of-type(2) {
+span {
   font-style: italic;
+}
+
+code {
+  font-size: 1.6rem;
 }
 
 main p:nth-of-type(3) {
